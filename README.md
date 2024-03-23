@@ -12,6 +12,7 @@ On the home page you can enter a username the title of the blog and the blog con
 ![blog-page](https://github.com/bschwendiman90/thought-canvas-personal-blog/assets/146499394/9cfa0337-45b7-47ee-9524-f120d8ce447b)
 ![home-page](https://github.com/bschwendiman90/thought-canvas-personal-blog/assets/146499394/2a3662f7-05de-4f9b-81c9-46c2f3dd9596)
     ```
+https://bschwendiman90.github.io/thought-canvas-personal-blog/
 
 ## License
 
