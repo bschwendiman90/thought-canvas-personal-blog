@@ -7,7 +7,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 50px;
+    height: 75px;
     background: #070F2B;
     color: white;
 }
@@ -41,6 +41,11 @@ footer {
     background: #070F2B;
     color: white;
     height: 75px;
+}
+
+button {
+    margin: 20px;
+    padding: 2px 5px 2px 5px;
 }
 
 ul li a {
