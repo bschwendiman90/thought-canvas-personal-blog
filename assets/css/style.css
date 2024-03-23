@@ -1,5 +1,88 @@
 body {
+
+}
+
+header {
+    text-align: right;
+    height: 45px;
+    background: #070F2B;
+}
+
+form {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-direction: column;
+    margin: 20px;
     
 }
 
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+ 
+.left {
+    flex: 1;
+    float: left;
+    width: 50%;
+    height: 100%;
+    font-display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #070F2B solid;
+ }
+ 
+ .right{
+    flex: 1;
+    font-display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    width: 50%;
+    text-align: center;
+    border: #070F2B solid;
+ }
 
+ .clearfix {
+    clear: both; /* Clear floated elements */
+  }
+ 
+ .input {
+     width: 100%;
+     margin: 10px;
+ }
+
+ 
+
+ .material-symbols-outlined {
+    color: white;
+    margin: 10px;
+}
+
+#sun {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background: radial-gradient(circle, #FFD966, #FFF2CC);
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#moon {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background: radial-gradient(circle, #070F2B, #9290C3);
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* background: radial-gradient(circle, #070F2B, #9290C3); */
