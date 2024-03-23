@@ -1,9 +1,16 @@
-
+#dark{
+    background-color: #070F2B;
+    color: white;
+}
 
 header {
     text-align: right;
     height: 45px;
     background: #070F2B;
+}
+
+h2 {
+    margin-top: 20px;
 }
 
 form {

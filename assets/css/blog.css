@@ -16,6 +16,11 @@ h1 {
     margin: 5px;
 }
 
+div {
+    border: solid #070F2B;
+    border-radius: 10px;
+}
+
 h5 {
     margin-right: 20px;
 }
@@ -55,4 +60,15 @@ ul li {
 
 .links {
     margin-left: 20px;
+}
+
+#dark{
+    background-color: #070F2B;
+    color: white;
+}
+
+#darkDiv {
+    border: solid white;
+    border-radius: 10px;
+    color: white;
 }
