@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background: #070F2B;
+    color: white;
+}
+
+h1 {
+    margin: 5px;
+}
+
+h5 {
+    margin-right: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background: #070F2B;
+    color: white;
+    height: 75px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+ul li {
+    margin: 5px;
+}
+
+.material-symbols-outlined {
+    color: white;
+    margin: 10px;
+}
+
+.headerRight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links {
+    margin-left: 20px;
+}
